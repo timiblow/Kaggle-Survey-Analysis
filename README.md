@@ -30,13 +30,3 @@ The goal of this project is to understand the **educational backgrounds of data 
 - `numpy` – for numerical operations
 
 ---
-
-### 📁 Project Structure
-
-```bash
-.
-├── kaggle_2019_analysis.ipynb    # Main notebook with all analysis
-├── data/
-│   └── multiple_choice_responses.csv  # Raw Kaggle 2019 survey data
-├── README.md                     # Project documentation
-└── requirements.txt              # (Optional) Dependency list
